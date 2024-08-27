@@ -1890,6 +1890,20 @@ a.btn-more {
 }
 .text-center {
 	text-align:center;
+	font-size:2rem;
+	line-height:1.5em;
+	font-weight:300;
+	letter-spacing:0.01rem;
+	
+	
+}
+.text-center h4 {
+	font-size: 2.1rem;
+	color:rgba(255,255,255,0.9);
+}
+.text-center p {
+	font-size: 1.5rem;
+	padding: 0%;
 }
 .grid-item {
 }
